@@ -1,0 +1,43 @@
+
+var ftGUID_7923231="6147D8F5F6D686";
+var ftConfID_7923231="0";
+var ftParams_7923231="ftOBA=1&ft_agentEnv=0&ft_referrer=https://garticphone.com/es&gdpr=0&site_url=https://garticphone.com/es&pub_id=38&sup_platform=38&cachebuster=610022.4428247019";
+var ftKeyword_7923231="";
+var ftCustom_7923231="";
+var ftSection_7923231="";
+var ftSegment_7923231="anf0,anjv";
+var ftSegmentList_7923231=[{s:'anf0'},{s:'anjv'}];
+var ftRuleMatch_7923231="0";
+var ftTimestamp_7923231="1733500200";
+var ftGeoC2_7923231="co";
+var ftGeoState_7923231="san";
+var ftGeoCity_7923231="barrancabermeja";
+var ftISP_7923231="ifx networks colombia";
+var ftSpeed_7923231="broadband";
+var ftConnType_7923231="wifi";
+var ftDMA_7923231="-1";
+var ftLong_7923231="-73.84";
+var ftLat_7923231="7.05";
+var ftPostal_7923231="687033";
+var ftTimeZone_7923231="-500";
+var ftMobileCarrier_7923231="";
+var ftImp7923231 = {};
+ftImp7923231.privacy = "x";
+ftImp7923231.guidAge = "37";
+ftImp7923231.impID = "1005E1DE-222A-6B62-FB04-E59B889A6033";
+ftImp7923231.duid = "FT:6147D8F5F6D686";
+
+ftImp7923231.ft_tpplid = "";
+ftImp7923231.ft_c = {};
+ftImp7923231.gdpr = "0";
+ftImp7923231.gdpr_consent = "";
+ftImp7923231.gdpr_pd = "";
+ftImp7923231.oob_consent = "";
+ftImp7923231.gdprStoredConsent = "";
+ftImp7923231.us_privacy = "";
+ftImp7923231.gpc = "";
+
+ftImp7923231.jsAppend = "1";
+var ftCreativeId_7923231 = "4972429";
+(function(){var tag=document.getElementById("ft_servedby_7923231")||function(s){return s[s.length-1]}(document.getElementsByTagName("script")),js=document.createElement("script");js.src="https://ajs-assets.ftstatic.com/ftUtils.js";js.id="ftscript_m7923231";js.setAttribute("name","ftscript_m7923231");tag.parentNode.insertBefore(js,tag)})();window.fTChecker=window.fTChecker||function(id){if(!id)return false;id=""+id;if(window.hasOwnProperty("ftUtils")){window["ft"+id]=Object.assign({},window.ftUtils.common);window["ft"+id].getBannerConfig(id)}else(function(id){window.setTimeout(function(){window.fTChecker(id)},50)})(id)};window.fTChecker("7923231");
+
